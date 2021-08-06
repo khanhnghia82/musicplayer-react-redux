@@ -1,0 +1,57 @@
+[
+  {
+      "name": "Thê Lương",
+      "singer": "Phúc Chinh",
+      "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1012/TheLuong-PhucChinh-6971140.mp3",
+      "image": "https://i.ytimg.com/vi/gxU-5B-nFnU/maxresdefault.jpg"
+  },
+  {
+      "name": "Sài Gòn Đau Lòng Quá",
+      "singer": "Hứa Kim Tuyền, Hoàng Duyên",
+      "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1013/SaiGonDauLongQua-HuaKimTuyenHoangDuyen-6992977.mp3",
+      "image": "https://i.ytimg.com/vi/BdPk9ipvczM/maxresdefault.jpg"
+  },
+  {
+      "name": "Câu Hẹn Thề",
+      "singer": "Đình Dũng, ACV",
+      "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1013/CauHenCauThe-DinhDung-6994741.mp3",
+      "image": "https://i.ytimg.com/vi/QXmn3aw-2dE/maxresdefault.jpg"
+  },
+  {
+      "name": "Vách Ngọc Ngà",
+      "singer": "Anh Rồng",
+      "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1013/VachNgocNga-AnhRong-6984991.mp3",
+      "image": "https://i.scdn.co/image/ab67616d0000b273637786fc5650a566db2d7195"
+  },
+  {
+      "name": "Cafe Không Đường (Ciray Remix)",
+      "singer": "JOMBIE",
+      "path": "https://dl.tainhacvip.com/wp-content/uploads/Ca-Phe-Khong-Duong-Remix-Tiktok-JOMBIE-x-TKAN-X-BEAN.mp3",
+      "image": "https://i.ytimg.com/vi/0bDkxMyfInA/sddefault.jpg"
+  },
+  {
+      "name": "Trốm Tìm",
+      "singer": "Đen Vâu",
+      "path": "https://data25.chiasenhac.com/download2/2172/2/2171043-de949f5d/128/Tron%20Tim%20-%20Den_%20MTV%20Band.mp3",
+      "image": "https://image.thanhnien.vn/1024/uploaded/datdt/2021_05_17/2j3a0095_erao.jpg"
+  },
+  {
+      "name": "Phố Đã Lên Đèn (Masew Remix)",
+      "singer": "Huyền Tâm Môn",
+      "path": "https://data25.chiasenhac.com/download2/2183/2/2182207-d995845c/128/Pho%20Da%20Len%20Den%20Masew%20Remix_%20-%20Masew_%20Huy.mp3",
+      "image": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/07/30/0/8/e/1/1596088171189_600.jpg"
+
+  },
+  {
+      "name": "Tự Em Đa Tình (Remix)",
+      "singer": "Quinn",
+      "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1016/TuEmDaTinhRemix-Quinn-7026253.mp3",
+      "image": "https://i1.sndcdn.com/artworks-JKLLOQnIN1Alge9z-2mjJbg-t500x500.jpg"
+  },
+  {
+      "name": "Anh Có Muốn Đưa Em Về Không? (Orinn EDM Remix)",
+      "singer": "Ngô Lan Hương",
+      "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1016/AnhCoMuonDuaEmVeKhongOrinnEDMRemix-NgoLanHuong-7021715.mp3",
+      "image": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/02/12/9/2/5/0/1581490321695_600.jpg"
+  }
+]
